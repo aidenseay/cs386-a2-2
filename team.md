@@ -1,6 +1,17 @@
 # Worksheet 2-2 Team
 ## Teammates
-1. Aiden Seay - Manager
-2. Aiden Seay - Reflector
-3. Aiden Seay - Recorder
-4. Aiden Seay - Presenter
+### 1. Aiden Seay - Manager
+My name is Aiden and I am studying computer science here at NAU. I like to swim
+and solve the rubiks cube. 
+
+### 2. Aiden Seay - Reflector
+My name is Aiden and I am studying computer science here at NAU. I like to swim
+and solve the rubiks cube. 
+
+### 3. Aiden Seay - Recorder
+My name is Aiden and I am studying computer science here at NAU. I like to swim
+and solve the rubiks cube. 
+
+### 4. Aiden Seay - Presenter
+My name is Aiden and I am studying computer science here at NAU. I like to swim
+and solve the rubiks cube. 
